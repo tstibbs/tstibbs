@@ -4,7 +4,8 @@
 
 [pdf-viewer-sync](https://github.com/tstibbs/pdf-viewer-sync) \
 A pdf viewer for mobile devices that syncs page and file changes across multiple devices. Uses AWS to manage comms between devices. \
-Tech: AWS, CDK, Node.js, frontend JS, webpack.
+Tech: AWS, CDK, Node.js, frontend JS, webpack. \
+High-level architecture: [diagram](https://raw.githubusercontent.com/tstibbs/pdf-viewer-sync/main/high-level-architecture.png)
 
 [geo-bagging](https://github.com/tstibbs/geo-bagging) \
 An interactive map displaying historical POIs in an aggregated way. Includes a small AWS backend that allows integration of this map into the trigpointing.uk website. \
