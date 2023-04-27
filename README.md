@@ -9,7 +9,8 @@ High-level architecture: [diagram](https://raw.githubusercontent.com/tstibbs/pdf
 
 [geo-bagging](https://github.com/tstibbs/geo-bagging) \
 An interactive map displaying historical POIs in an aggregated way. Includes a small AWS backend that allows integration of this map into the trigpointing.uk website. \
-Tech: AWS, CDK, Node.js, frontend JS, leaflet, webpack.
+Tech: AWS, CDK, Node.js, frontend JS, leaflet, webpack. \
+High-level architecture: [diagram](https://raw.githubusercontent.com/tstibbs/geo-bagging/main/high-level-architecture.png)
 
 [javascript-password-generator](https://github.com/tstibbs/javascript-password-generator) \
 A web-based password generator that uses simple javascript running entirely in the browser. \
@@ -43,4 +44,5 @@ Tech: Node.js.
 
 [smart-home-integration](https://github.com/tstibbs/smart-home-integration) \
 Collection of functions that provide integration with smart home tools (only blink currently). \
-Tech: AWS, CDK, Node.js.
+Tech: AWS, CDK, Node.js. \
+High-level architecture: [diagram](https://raw.githubusercontent.com/tstibbs/smart-home-integration/main/high-level-architecture.png)
