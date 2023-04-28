@@ -16,6 +16,26 @@ High-level architecture: [diagram](https://raw.githubusercontent.com/tstibbs/geo
 A web-based password generator that uses simple javascript running entirely in the browser. \
 Tech: frontend JS.
 
+## Projects potentially only useful to me ##
+
+[cloud-core](https://github.com/tstibbs/cloud-core) \
+Collection of scripts and utilities for cloud stuff, not specific to any individual project. Includes tooling for managing and monitoring multiple AWS accounts. See [readme](https://github.com/tstibbs/cloud-core/blob/main/README.md) for more details. \
+Tech: AWS, CDK, Node.js.
+
+[cloud-photo-utils](https://github.com/tstibbs/cloud-photo-utils) \
+Collection of utilities for managing photos that I back up in various cloud services. \
+Tech: Node.js.
+
+[smart-home-integration](https://github.com/tstibbs/smart-home-integration) \
+Collection of functions that provide integration with smart home tools (only blink currently). \
+Tech: AWS, CDK, Node.js. \
+High-level architecture: [diagram](https://raw.githubusercontent.com/tstibbs/smart-home-integration/main/high-level-architecture.png)
+
+[home-alarm-notifier](https://github.com/tstibbs/home-alarm-notifier) \
+Attempt to add more intelligence to notifications from home security systems. \
+Tech: AWS, CDK, Node.js. \
+High-level architecture: [diagram](https://raw.githubusercontent.com/tstibbs/home-alarm-notifier/main/high-level-architecture.png)
+
 ## Leaflet plugins ##
 
 Leaflet plugins used in the geo-bagging project linked above.
@@ -31,18 +51,3 @@ Tech: frontend JS.
 [Leaflet.MatrixLayersControl](https://github.com/tstibbs/Leaflet.MatrixLayersControl) \
 Similar to the leaflet layers control except that you can specify a multi-dimensional matrix of layers. This essentially means you can group layers by more than one aspect. \
 Tech: frontend JS.
-
-## Projects probably only useful to me ##
-
-[cloud-core](https://github.com/tstibbs/cloud-core) \
-Collection of scripts and utilities for cloud stuff, not specific to any individual project. Includes tooling for managing and monitoring multiple AWS accounts. See [readme](https://github.com/tstibbs/cloud-core/blob/main/README.md) for more details. \
-Tech: AWS, CDK, Node.js.
-
-[cloud-photo-utils](https://github.com/tstibbs/cloud-photo-utils) \
-Collection of utilities for managing photos that I back up in various cloud services. \
-Tech: Node.js.
-
-[smart-home-integration](https://github.com/tstibbs/smart-home-integration) \
-Collection of functions that provide integration with smart home tools (only blink currently). \
-Tech: AWS, CDK, Node.js. \
-High-level architecture: [diagram](https://raw.githubusercontent.com/tstibbs/smart-home-integration/main/high-level-architecture.png)
